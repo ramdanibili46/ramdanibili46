@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Bili 👋  
+I'm final year university student passionate about data and sustainability
+Lets connect!
 
 <!--
 **ramdanibili46/ramdanibili46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
