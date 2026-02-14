@@ -1,5 +1,5 @@
 ## Hi, I'm Bili 👋  
-I'm final year university student passionate about data and sustainability
+I'm final year university student passionate about data and sustainability  
 Lets connect!
 
 <!--
