@@ -1,6 +1,12 @@
 ## Hi, I'm Bili 👋  
 I'm final year university student passionate about data and sustainability  
-Lets connect!
+I enjoy learning how code can help solve real world scientific and environmental problems    
+* 🛠️ Currently learning and exxperimenting in 'pandas', 'Numpy, and data siences tools
+* 🧠 Interested in data sciences
+* 🌱 My motto: *"Do what you love, and love what you do"*  
+#### Lets connect!  
+___
+
 
 <!--
 **ramdanibili46/ramdanibili46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
