@@ -1,7 +1,6 @@
 ## Hi, I'm Bili 👋  
-I'm final year university student passionate about data and sustainability  
-I enjoy learning how code can help solve real world scientific and environmental problems    
-* 🛠️ Currently learning and exxperimenting in 'pandas', 'Numpy, and data siences tools
+I'm a university student interest about data and sustainability      
+* 🛠️ Currently learning and experimenting in 'R' & "Python"
 * 🧠 Interested in data sciences
 * 🌱 My motto: *"Do what you love, and love what you do"*  
 #### Lets connect!  
